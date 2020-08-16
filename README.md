@@ -19,6 +19,7 @@ pip install -r requirements.txt
 Convert images into Numpy arrays and save in HDF5 file. The data.h5 file contains:
   * an array of vehicle images
   * an array of background images
+  
 Image dataset: [Link](https://www.gti.ssr.upm.es/data/Vehicle_database.html)
 
 ### feature.py
